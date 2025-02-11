@@ -1,1 +1,1 @@
-this is updated by branch 2 and check conflicts
+this is updated by branch 2 check conflicts
